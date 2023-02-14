@@ -1,8 +1,9 @@
-// GameOver.cpp
 #include <iostream>
+
+using namespace std;
 
 int main()
 {
-	std::cout << "Game Over !" << std::endl;
-	return 0;
+    cout << "Game Over!" << "\n";
+    return 0;
 }
